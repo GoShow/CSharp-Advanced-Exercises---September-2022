@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodFinder", "FoodFinder\FoodFinder.csproj", "{7A938DBA-5F09-4493-893F-C343E63BBAB6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PawnWars", "PawnWars\PawnWars.csproj", "{808A876D-C703-402E-A248-90BEA1230B36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockMarket", "StockMarket\StockMarket.csproj", "{B0E02147-7DE1-45C9-8174-CBF607604187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A938DBA-5F09-4493-893F-C343E63BBAB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A938DBA-5F09-4493-893F-C343E63BBAB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A938DBA-5F09-4493-893F-C343E63BBAB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A938DBA-5F09-4493-893F-C343E63BBAB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808A876D-C703-402E-A248-90BEA1230B36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808A876D-C703-402E-A248-90BEA1230B36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808A876D-C703-402E-A248-90BEA1230B36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808A876D-C703-402E-A248-90BEA1230B36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E02147-7DE1-45C9-8174-CBF607604187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E02147-7DE1-45C9-8174-CBF607604187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E02147-7DE1-45C9-8174-CBF607604187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E02147-7DE1-45C9-8174-CBF607604187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE86A54-1F5B-4D65-90F7-DA756C0E4927}
+	EndGlobalSection
+EndGlobal
